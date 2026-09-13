@@ -1,0 +1,1 @@
+SELECT NAME, ListPrice, ListPrice*1.2 FROM [SALESLT].[Product] 
