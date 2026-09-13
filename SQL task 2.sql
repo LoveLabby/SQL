@@ -1,0 +1,1 @@
+select DATEDIFF (DAY,orderdate, shipdate) from SalesLT.SalesOrderHeader
